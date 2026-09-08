@@ -12,6 +12,27 @@
 4. 每次学习记录四项内容：今天使用的命令、遇到的问题、一个技巧、成品截图。
 5. 每个模型至少完成两次：第一次跟着教程，第二次不看教程独立重做。
 
+## 每日课程目录
+
+每周一个文件夹，每天一个 Markdown 课件。打开当天文件，按“今日目标 → 课程内容 → 动手练习 → 本节重点总结 → 完成检查”的顺序学习。
+
+| 周次 | 主题 | 课程目录 |
+| --- | --- | --- |
+| 第 1 周 | 界面与约束草图 | [week-01-sketch-basics](week-01-sketch-basics/) |
+| 第 2 周 | 常用实体建模 | [week-02-solid-features](week-02-solid-features/) |
+| 第 3 周 | 构造几何与复杂特征 | [week-03-construction-patterns](week-03-construction-patterns/) |
+| 第 4 周 | 参数、表达式与设计意图 | [week-04-parameters](week-04-parameters/) |
+| 第 5 周 | 从实物到模型 | [week-05-reverse-engineering](week-05-reverse-engineering/) |
+| 第 6 周 | Body 与 Component | [week-06-components](week-06-components/) |
+| 第 7 周 | 装配与运动 | [week-07-joints](week-07-joints/) |
+| 第 8 周 | 工程图 | [week-08-drawings](week-08-drawings/) |
+| 第 9 周 | 材料、外观与渲染 | [week-09-rendering](week-09-rendering/) |
+| 第 10 周 | 3D 打印或 CAM 入门 | [week-10-manufacturing](week-10-manufacturing/) |
+| 第 11 周 | 完整项目规划 | [week-11-capstone-planning](week-11-capstone-planning/) |
+| 第 12 周 | 完成、复盘与迭代 | [week-12-final-review](week-12-final-review/) |
+
+每天建议学习 60-90 分钟：用 10-15 分钟理解概念，用 35-50 分钟在 Fusion 360 中操作，用 10-20 分钟完成总结和检查。每周第 5 天用于综合练习和复盘，不建议跳过。
+
 ## 核心英文词汇
 
 `Sketch`、`Extrude`、`Revolve`、`Fillet`、`Chamfer`、`Shell`、`Pattern`、`Mirror`、`Component`、`Joint`、`Drawing`、`Manufacture`。
