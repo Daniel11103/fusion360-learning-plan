@@ -22,6 +22,11 @@
 - Contact Set 计算成本较高，适合必要的接触关系。
 - 先保证基础 Joint 正确，再添加联动和接触。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Motion Link Contact Set](https://www.youtube.com/results?search_query=Fusion+360+Motion+Link+Contact+Set)
+- [Bilibili：Fusion 360 运动链接与接触集](https://search.bilibili.com/all?keyword=Fusion%20360%20运动链接%20接触集)
+
 ## 完成检查
 
 - [ ] 建立两个 Joint。

@@ -22,6 +22,11 @@
 - 优先阵列特征而不是手工复制草图，修改数量更方便。
 - 阵列方向、数量和间距都应是明确的设计参数。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Mirror 与 Rectangular Pattern](https://www.youtube.com/results?search_query=Fusion+360+Mirror+Rectangular+Pattern)
+- [Bilibili：Fusion 360 镜像与矩形阵列](https://search.bilibili.com/all?keyword=Fusion%20360%20镜像%20矩形阵列)
+
 ## 完成检查
 
 - [ ] 使用过特征镜像和矩形阵列。

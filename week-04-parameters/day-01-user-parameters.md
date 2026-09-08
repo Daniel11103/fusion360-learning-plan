@@ -22,6 +22,11 @@
 - 参数名称应表达含义，避免使用 `d1`、`d2` 这类难以理解的名称。
 - 先建立参数，再建模，后续修改会更顺畅。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 User Parameters](https://www.youtube.com/results?search_query=Fusion+360+user+parameters+tutorial)
+- [Bilibili：Fusion 360 用户参数](https://search.bilibili.com/all?keyword=Fusion%20360%20用户参数%20教程)
+
 ## 完成检查
 
 - [ ] 建立至少 6 个用户参数。

@@ -22,6 +22,11 @@
 - 颜色不应掩盖结构问题，材料设置要与实际用途一致。
 - 装配中使用适度的外观差异有助于识别零件。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 materials and appearances](https://www.youtube.com/results?search_query=Fusion+360+materials+appearances)
+- [Bilibili：Fusion 360 材料与外观](https://search.bilibili.com/all?keyword=Fusion%20360%20材料%20外观)
+
 ## 完成检查
 
 - [ ] 设置至少两种物理材料。

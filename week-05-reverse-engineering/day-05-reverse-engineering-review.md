@@ -22,6 +22,11 @@
 - 不能确认的尺寸应记录假设，而不是伪装成精确值。
 - 清晰的时间线是设计成果的一部分。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 reverse engineering workflow](https://www.youtube.com/results?search_query=Fusion+360+reverse+engineering+workflow)
+- [Bilibili：Fusion 360 实物复刻完整流程](https://search.bilibili.com/all?keyword=Fusion%20360%20实物复刻%20完整流程)
+
 ## 完成检查
 
 - [ ] 时间线至少 8 个命名特征。

@@ -22,6 +22,11 @@
 - 参数化不只控制外形，也应控制功能尺寸。
 - 复杂外壳要分阶段验证，不要一次加入全部细节。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 parametric enclosure](https://www.youtube.com/results?search_query=Fusion+360+parametric+enclosure+tutorial)
+- [Bilibili：Fusion 360 参数化外壳](https://search.bilibili.com/all?keyword=Fusion%20360%20参数化%20外壳)
+
 ## 完成检查
 
 - [ ] 外壳主体由参数控制。

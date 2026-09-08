@@ -22,6 +22,11 @@
 - 源模型、工程图和制造文件需要保持版本对应。
 - 导出后要重新检查尺寸和文件可用性。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 drawings export manufacturing files](https://www.youtube.com/results?search_query=Fusion+360+drawings+export+manufacturing+files)
+- [Bilibili：Fusion 360 工程图与制造文件导出](https://search.bilibili.com/all?keyword=Fusion%20360%20工程图%20制造文件%20导出)
+
 ## 完成检查
 
 - [ ] 关键零件有工程图。

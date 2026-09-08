@@ -22,6 +22,11 @@
 - 毛坯应真实反映原材料，而不是只包住模型轮廓。
 - CAM 学习初期先理解坐标和仿真，再追求复杂刀路。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 CAM setup stock origin](https://www.youtube.com/results?search_query=Fusion+360+CAM+setup+stock+origin)
+- [Bilibili：Fusion 360 CAM Setup 毛坯原点](https://search.bilibili.com/all?keyword=Fusion%20360%20CAM%20Setup%20毛坯%20原点)
+
 ## 完成检查
 
 - [ ] 创建一个 Setup。

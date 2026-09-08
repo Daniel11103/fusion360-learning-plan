@@ -22,6 +22,11 @@
 - 关联投影减少重复尺寸，但也要避免引用脆弱的短边。
 - 选择稳定的基准和主要轮廓，有助于长期维护模型。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Project Geometry](https://www.youtube.com/results?search_query=Fusion+360+Project+Include+geometry+sketch)
+- [Bilibili：Fusion 360 投影几何](https://search.bilibili.com/all?keyword=Fusion%20360%20投影几何%20Project%20Sketch)
+
 ## 完成检查
 
 - [ ] 成功投影已有边线。

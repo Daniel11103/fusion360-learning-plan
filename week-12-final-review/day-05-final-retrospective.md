@@ -22,6 +22,11 @@
 - 复盘不是结束，而是选择下一条学习路径的依据。
 - 将问题、版本和文件整理好，未来才能快速重新进入项目。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 learning portfolio final project](https://www.youtube.com/results?search_query=Fusion+360+learning+portfolio+final+project)
+- [Bilibili：Fusion 360 学习成果项目复盘](https://search.bilibili.com/all?keyword=Fusion%20360%20学习成果%20项目复盘)
+
 ## 完成检查
 
 - [ ] 完成最终需求验收。

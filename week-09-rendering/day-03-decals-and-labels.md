@@ -22,6 +22,11 @@
 - 贴图表面和方向决定最终效果。
 - 视觉标识与制造信息应分开管理。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Decal tutorial](https://www.youtube.com/results?search_query=Fusion+360+Decal+tutorial)
+- [Bilibili：Fusion 360 Decal 贴图标签](https://search.bilibili.com/all?keyword=Fusion%20360%20Decal%20贴图%20标签)
+
 ## 完成检查
 
 - [ ] 添加至少一个标签。

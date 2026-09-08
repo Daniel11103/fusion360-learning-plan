@@ -22,6 +22,11 @@
 - 阵列边界必须与外壳尺寸保持安全距离。
 - 独立草图让孔、开口和通风结构更容易维护。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 enclosure vents holes pattern](https://www.youtube.com/results?search_query=Fusion+360+enclosure+vent+holes+pattern)
+- [Bilibili：Fusion 360 外壳通风孔阵列](https://search.bilibili.com/all?keyword=Fusion%20360%20外壳%20通风孔%20阵列)
+
 ## 完成检查
 
 - [ ] 螺丝孔随总体尺寸变化。

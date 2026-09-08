@@ -22,6 +22,11 @@
 - 图像尺寸要适合用途，学习记录不需要盲目追求超高分辨率。
 - 最终图应能回答“是什么、怎么装、用什么材料”。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 render settings output](https://www.youtube.com/results?search_query=Fusion+360+render+settings+output)
+- [Bilibili：Fusion 360 渲染设置与输出](https://search.bilibili.com/all?keyword=Fusion%20360%20渲染设置%20输出)
+
 ## 完成检查
 
 - [ ] 输出三张图片。

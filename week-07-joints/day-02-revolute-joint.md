@@ -22,6 +22,11 @@
 - 轴线选择错误是盒盖方向不对的主要原因。
 - 限位能表达真实产品的使用范围。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Revolute Joint hinge](https://www.youtube.com/results?search_query=Fusion+360+Revolute+Joint+hinge)
+- [Bilibili：Fusion 360 Revolute Joint 旋转连接](https://search.bilibili.com/all?keyword=Fusion%20360%20Revolute%20Joint%20旋转连接)
+
 ## 完成检查
 
 - [ ] 盒盖能正确旋转。

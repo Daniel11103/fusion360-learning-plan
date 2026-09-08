@@ -22,6 +22,11 @@
 - 独立特征便于后续测量修正和版本对比。
 - 孔位与边缘距离过小会造成制造或强度问题。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 reverse engineering holes slots](https://www.youtube.com/results?search_query=Fusion+360+reverse+engineering+holes+slots)
+- [Bilibili：Fusion 360 复刻孔槽凸台](https://search.bilibili.com/all?keyword=Fusion%20360%20复刻%20孔槽凸台)
+
 ## 完成检查
 
 - [ ] 功能孔和槽已加入。

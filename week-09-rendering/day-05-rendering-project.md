@@ -22,6 +22,11 @@
 - 同一项目的图片应保持相同的视觉语言。
 - 展示图不能替代参数、工程图和制造验证。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 product rendering project](https://www.youtube.com/results?search_query=Fusion+360+product+rendering+project)
+- [Bilibili：Fusion 360 产品渲染项目](https://search.bilibili.com/all?keyword=Fusion%20360%20产品渲染项目)
+
 ## 完成检查
 
 - [ ] 至少 3 张渲染图。

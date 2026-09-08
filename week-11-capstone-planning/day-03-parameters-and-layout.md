@@ -22,6 +22,11 @@
 - 总体参数应覆盖最容易变化和最影响功能的尺寸。
 - 基准一旦确定，后续零件尽量围绕基准建立。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 layout sketch parameters](https://www.youtube.com/results?search_query=Fusion+360+layout+sketch+parameters)
+- [Bilibili：Fusion 360 布局草图与参数](https://search.bilibili.com/all?keyword=Fusion%20360%20布局草图%20参数)
+
 ## 完成检查
 
 - [ ] 有总体布局草图。

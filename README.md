@@ -33,6 +33,8 @@
 
 每天建议学习 60-90 分钟：用 10-15 分钟理解概念，用 35-50 分钟在 Fusion 360 中操作，用 10-20 分钟完成总结和检查。每周第 5 天用于综合练习和复盘，不建议跳过。
 
+每个每日课件都包含“视频学习链接”区域。链接默认指向对应主题的 YouTube 和 Bilibili 搜索结果，便于选择中文或英文教程；观看时优先选择近期、完整且与当前 Fusion 360 版本接近的视频，并以课件中的操作和验收标准为准。
+
 ## 核心英文词汇
 
 `Sketch`、`Extrude`、`Revolve`、`Fillet`、`Chamfer`、`Shell`、`Pattern`、`Mirror`、`Component`、`Joint`、`Drawing`、`Manufacture`。

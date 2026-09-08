@@ -22,6 +22,11 @@
 - 先固定基准，再逐个添加关系，排错最容易。
 - 装配截图能帮助发现位置、方向和碰撞问题。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 hinged box assembly](https://www.youtube.com/results?search_query=Fusion+360+hinged+box+assembly)
+- [Bilibili：Fusion 360 铰链盒装配](https://search.bilibili.com/all?keyword=Fusion%20360%20铰链盒%20装配)
+
 ## 完成检查
 
 - [ ] 盒盖可以完整开合。

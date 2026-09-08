@@ -22,6 +22,11 @@
 - 组件拆分会影响建模、装配、工程图和制造。
 - 先做结构决策，能减少后期大幅返工。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 product concept assembly](https://www.youtube.com/results?search_query=Fusion+360+product+concept+assembly)
+- [Bilibili：Fusion 360 产品概念与组件拆分](https://search.bilibili.com/all?keyword=Fusion%20360%20产品概念%20组件拆分)
+
 ## 完成检查
 
 - [ ] 有两个概念方案。

@@ -17,6 +17,11 @@
 
 制作 `u_bracket_day03` 草图：底部宽 `80 mm`，两侧高度 `50 mm`，壁厚 `8 mm`，顶部两个孔直径 `6 mm`，两个孔关于中心线对称。先不要拉伸，专注于约束关系。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 几何约束](https://www.youtube.com/results?search_query=Fusion+360+sketch+constraints+coincident+symmetry)
+- [Bilibili：Fusion 360 几何约束](https://search.bilibili.com/all?keyword=Fusion%20360%20草图几何约束%20对称%20重合)
+
 ## 本节重点总结
 
 - 尺寸约束回答“多大”，几何约束回答“怎样相互关联”。

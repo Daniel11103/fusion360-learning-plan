@@ -22,6 +22,11 @@
 - 局部视图应服务细节尺寸，不是单纯放大装饰。
 - 图纸视图越少但信息越完整，沟通效率越高。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 section view detail view drawing](https://www.youtube.com/results?search_query=Fusion+360+section+view+detail+view+drawing)
+- [Bilibili：Fusion 360 剖视图与局部视图](https://search.bilibili.com/all?keyword=Fusion%20360%20剖视图%20局部视图)
+
 ## 完成检查
 
 - [ ] 完成一个剖视图。

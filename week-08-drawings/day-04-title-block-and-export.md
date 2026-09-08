@@ -22,6 +22,11 @@
 - 导出后必须检查，不要假设屏幕预览等于 PDF 效果。
 - 图纸文件名应包含零件名和版本号。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 drawing title block export PDF](https://www.youtube.com/results?search_query=Fusion+360+drawing+title+block+export+PDF)
+- [Bilibili：Fusion 360 工程图标题栏导出 PDF](https://search.bilibili.com/all?keyword=Fusion%20360%20工程图%20标题栏%20PDF)
+
 ## 完成检查
 
 - [ ] 标题栏完整。

@@ -22,6 +22,11 @@
 - 约束越明确，建模过程越容易做取舍。
 - 验收标准应能通过尺寸、运动或制造结果检查。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 product design requirements](https://www.youtube.com/results?search_query=Fusion+360+product+design+requirements)
+- [Bilibili：Fusion 360 产品设计需求分析](https://search.bilibili.com/all?keyword=Fusion%20360%20产品设计%20需求分析)
+
 ## 完成检查
 
 - [ ] 明确项目用途。

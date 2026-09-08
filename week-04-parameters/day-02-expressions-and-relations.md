@@ -22,6 +22,11 @@
 - 重要位置优先使用相对关系，而不是多个孤立数字。
 - 修改极端尺寸可以暴露表达式设计中的问题。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 parameter expressions](https://www.youtube.com/results?search_query=Fusion+360+parameter+expressions)
+- [Bilibili：Fusion 360 参数表达式](https://search.bilibili.com/all?keyword=Fusion%20360%20参数表达式)
+
 ## 完成检查
 
 - [ ] 至少使用 3 个表达式。

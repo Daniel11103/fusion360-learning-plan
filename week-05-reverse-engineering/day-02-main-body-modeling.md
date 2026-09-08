@@ -22,6 +22,11 @@
 - 建模基准应尽量与实物的装配或测量基准一致。
 - 三视图对比比只看等轴测图更容易发现比例错误。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 reverse engineering main body](https://www.youtube.com/results?search_query=Fusion+360+reverse+engineering+main+body)
+- [Bilibili：Fusion 360 实物复刻主体建模](https://search.bilibili.com/all?keyword=Fusion%20360%20实物复刻%20主体建模)
+
 ## 完成检查
 
 - [ ] 主体尺寸与测量记录一致。

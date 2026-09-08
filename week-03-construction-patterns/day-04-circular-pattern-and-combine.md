@@ -22,6 +22,11 @@
 - Combine 适合处理独立实体之间的布尔关系。
 - 做布尔运算前先确认谁是目标体、谁是工具体。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Circular Pattern 与 Combine](https://www.youtube.com/results?search_query=Fusion+360+Circular+Pattern+Combine)
+- [Bilibili：Fusion 360 圆周阵列与实体组合](https://search.bilibili.com/all?keyword=Fusion%20360%20圆周阵列%20Combine)
+
 ## 完成检查
 
 - [ ] 完成四孔圆周阵列。

@@ -22,6 +22,11 @@
 - 图纸是对三维建模结果的一次再审查。
 - 设计交付不只是模型，还包括可读的制造信息。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 engineering drawing project](https://www.youtube.com/results?search_query=Fusion+360+engineering+drawing+project)
+- [Bilibili：Fusion 360 工程图综合练习](https://search.bilibili.com/all?keyword=Fusion%20360%20工程图%20综合练习)
+
 ## 完成检查
 
 - [ ] 关键尺寸齐全且无重复。

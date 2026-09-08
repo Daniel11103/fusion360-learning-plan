@@ -22,6 +22,11 @@
 - 圆角和倒角应基于实物或制造需求，而不是随意美化。
 - 截面分析能发现肉眼看不到的内部穿透和薄壁。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 model comparison measurement](https://www.youtube.com/results?search_query=Fusion+360+model+comparison+measure+tool)
+- [Bilibili：Fusion 360 模型测量对比](https://search.bilibili.com/all?keyword=Fusion%20360%20模型测量对比)
+
 ## 完成检查
 
 - [ ] 完成外观细节。

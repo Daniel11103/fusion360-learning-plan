@@ -22,6 +22,11 @@
 - 打印方向和支撑策略应在设计阶段考虑。
 - 测试件比直接猜配合尺寸更可靠。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 design for 3D printing](https://www.youtube.com/results?search_query=Fusion+360+design+for+3D+printing+tutorial)
+- [Bilibili：Fusion 360 3D 打印设计检查](https://search.bilibili.com/all?keyword=Fusion%20360%203D%20打印%20设计)
+
 ## 完成检查
 
 - [ ] 检查实体有效性。

@@ -22,6 +22,11 @@
 - 先找基准和对称关系，再测每个细节。
 - 记录测量过程，后续发现偏差时才能追溯。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 reverse engineering measurement](https://www.youtube.com/results?search_query=Fusion+360+reverse+engineering+measurement)
+- [Bilibili：Fusion 360 实物测量建模](https://search.bilibili.com/all?keyword=Fusion%20360%20实物测量%20建模)
+
 ## 完成检查
 
 - [ ] 有总体尺寸和关键功能尺寸。

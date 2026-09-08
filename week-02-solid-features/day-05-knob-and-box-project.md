@@ -22,6 +22,11 @@
 - 每做一个特征都要问：它表达的是尺寸、功能还是外观？
 - 练习项目应至少完成一次尺寸回改，验证参数关系。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 旋钮与收纳盒项目](https://www.youtube.com/results?search_query=Fusion+360+knob+box+beginner+project)
+- [Bilibili：Fusion 360 旋钮收纳盒建模](https://search.bilibili.com/all?keyword=Fusion%20360%20旋钮%20收纳盒%20建模)
+
 ## 完成检查
 
 - [ ] 使用本周至少 4 种命令。

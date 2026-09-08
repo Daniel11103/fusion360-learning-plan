@@ -22,6 +22,11 @@
 - 简化模型要保留装配需要的关键尺寸。
 - 外观可以辅助识别，但不能代替组件层级。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 bolt nut washer modeling](https://www.youtube.com/results?search_query=Fusion+360+bolt+nut+washer+modeling)
+- [Bilibili：Fusion 360 螺栓螺母垫片建模](https://search.bilibili.com/all?keyword=Fusion%20360%20螺栓%20螺母%20垫片%20建模)
+
 ## 完成检查
 
 - [ ] 有三个独立组件。

@@ -17,6 +17,11 @@
 
 建立 `mounting_plate_day02`：主体为 `120 x 70 mm`，厚度 `6 mm`；在中心线上布置两个直径 `8 mm` 的孔，孔中心距 `80 mm`。先完成草图，再拉伸主体并切除孔。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 草图工具](https://www.youtube.com/results?search_query=Fusion+360+sketch+tools+rectangle+circle+slot)
+- [Bilibili：Fusion 360 草图工具](https://search.bilibili.com/all?keyword=Fusion%20360%20草图工具%20矩形%20圆%20槽)
+
 ## 本节重点总结
 
 - 草图由几何元素和约束共同定义，尺寸不是装饰而是设计信息。

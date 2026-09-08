@@ -22,6 +22,11 @@
 - Joint 的坐标方向决定运动方向。
 - 运动装配需要同时检查几何间隙和约束范围。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Slider Cylindrical Joint](https://www.youtube.com/results?search_query=Fusion+360+Slider+Cylindrical+Joint)
+- [Bilibili：Fusion 360 滑动与圆柱连接](https://search.bilibili.com/all?keyword=Fusion%20360%20滑动%20圆柱%20Joint)
+
 ## 完成检查
 
 - [ ] 滑块沿正确方向移动。

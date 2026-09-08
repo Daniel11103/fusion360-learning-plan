@@ -22,6 +22,11 @@
 - 圆角半径不能超过相邻几何允许的空间。
 - 通常主体、孔槽完成后再处理最后的外观圆角。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Fillet 与 Chamfer](https://www.youtube.com/results?search_query=Fusion+360+Fillet+Chamfer+tutorial)
+- [Bilibili：Fusion 360 圆角与倒角](https://search.bilibili.com/all?keyword=Fusion%20360%20圆角%20倒角%20教程)
+
 ## 完成检查
 
 - [ ] 创建至少一个圆角和一个倒角。

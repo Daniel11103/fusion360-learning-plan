@@ -22,6 +22,11 @@
 - 评审要以需求和可验证结果为依据。
 - 返工一个局部结构通常比带着问题继续堆细节更省时间。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 design review workflow](https://www.youtube.com/results?search_query=Fusion+360+design+review+workflow)
+- [Bilibili：Fusion 360 设计项目中期评审](https://search.bilibili.com/all?keyword=Fusion%20360%20设计项目%20中期评审)
+
 ## 完成检查
 
 - [ ] 逐条检查需求。

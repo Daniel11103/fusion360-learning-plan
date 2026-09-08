@@ -22,6 +22,11 @@
 - 中心线和中心标记能让孔和对称结构更清楚。
 - 同一个尺寸只标一次，避免制造人员产生疑问。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 drawing dimensions center marks](https://www.youtube.com/results?search_query=Fusion+360+drawing+dimensions+center+marks)
+- [Bilibili：Fusion 360 工程图尺寸标注](https://search.bilibili.com/all?keyword=Fusion%20360%20工程图%20尺寸标注%20中心线)
+
 ## 完成检查
 
 - [ ] 标注所有关键功能尺寸。

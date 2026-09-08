@@ -22,6 +22,11 @@
 - 壁厚要结合材料和制造工艺，不能只追求最薄。
 - 先确定开口面，再设置厚度；失败时检查尖角和相邻特征。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Shell 薄壳建模](https://www.youtube.com/results?search_query=Fusion+360+Shell+thickness+tutorial)
+- [Bilibili：Fusion 360 抽壳与壁厚](https://search.bilibili.com/all?keyword=Fusion%20360%20抽壳%20壁厚%20教程)
+
 ## 完成检查
 
 - [ ] 完成一个有明确壁厚的盒体。

@@ -22,6 +22,11 @@
 - Rigid 表示零件之间没有相对运动。
 - Joint 不只是把零件放在一起，还定义了运动自由度。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Rigid Joint Ground](https://www.youtube.com/results?search_query=Fusion+360+Rigid+Joint+Ground)
+- [Bilibili：Fusion 360 刚性连接与固定](https://search.bilibili.com/all?keyword=Fusion%20360%20刚性连接%20固定)
+
 ## 完成检查
 
 - [ ] Ground 一个基准组件。

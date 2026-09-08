@@ -22,6 +22,11 @@
 - 金属和透明材料需要环境反射才能看清。
 - 先确定构图和模型完整性，再微调光照。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Render camera lighting](https://www.youtube.com/results?search_query=Fusion+360+Render+camera+lighting)
+- [Bilibili：Fusion 360 渲染相机与灯光](https://search.bilibili.com/all?keyword=Fusion%20360%20渲染%20相机%20灯光)
+
 ## 完成检查
 
 - [ ] 保存三个相机视角。

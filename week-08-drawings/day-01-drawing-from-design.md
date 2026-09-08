@@ -22,6 +22,11 @@
 - 视图方向应选择最能表达形状和功能的方向。
 - 比例和单位必须在图纸上明确。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Drawing from Design](https://www.youtube.com/results?search_query=Fusion+360+Drawing+from+Design)
+- [Bilibili：Fusion 360 从设计创建工程图](https://search.bilibili.com/all?keyword=Fusion%20360%20从设计创建工程图)
+
 ## 完成检查
 
 - [ ] 创建一页图纸。

@@ -22,6 +22,11 @@
 - 需要独立定位、复制或制造的对象应优先使用 Component。
 - 创建新特征前确认当前激活的 Component。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Body vs Component](https://www.youtube.com/results?search_query=Fusion+360+Body+vs+Component)
+- [Bilibili：Fusion 360 Body 和 Component](https://search.bilibili.com/all?keyword=Fusion%20360%20Body%20Component)
+
 ## 完成检查
 
 - [ ] 建立至少 3 个 Component。

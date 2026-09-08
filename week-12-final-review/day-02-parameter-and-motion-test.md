@@ -22,6 +22,11 @@
 - 运动测试能暴露静态视图中看不到的干涉。
 - 测试结果应记录，不要只凭“看起来没问题”。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 parameter motion testing](https://www.youtube.com/results?search_query=Fusion+360+parameter+motion+testing)
+- [Bilibili：Fusion 360 参数与运动测试](https://search.bilibili.com/all?keyword=Fusion%20360%20参数%20运动%20测试)
+
 ## 完成检查
 
 - [ ] 完成 3 组参数测试。

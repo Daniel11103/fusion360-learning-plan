@@ -17,6 +17,11 @@
 
 完成 `support_plate_day04`：外轮廓 `100 x 60 mm`，四角圆角草图半径 `10 mm`，两个孔直径 `6 mm`，孔中心距 `70 mm`，孔到边距离 `15 mm`。让草图完全约束，再拉伸 `5 mm`。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 完全约束与过度约束](https://www.youtube.com/results?search_query=Fusion+360+fully+constrained+overconstrained+sketch)
+- [Bilibili：Fusion 360 完全约束与过度约束](https://search.bilibili.com/all?keyword=Fusion%20360%20完全约束%20过度约束)
+
 ## 本节重点总结
 
 - 完全约束不是越多越好，而是每个关键自由度都有明确设计依据。

@@ -22,6 +22,11 @@
 - 导出文件要在切片软件中重新检查，不能只看原模型。
 - 保留源设计文件，导出文件只是制造交付物。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 export STL 3MF](https://www.youtube.com/results?search_query=Fusion+360+export+STL+3MF)
+- [Bilibili：Fusion 360 导出 STL 3MF](https://search.bilibili.com/all?keyword=Fusion%20360%20导出%20STL%203MF)
+
 ## 完成检查
 
 - [ ] 正确导出 STL 或 3MF。

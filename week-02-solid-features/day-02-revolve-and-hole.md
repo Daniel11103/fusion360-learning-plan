@@ -22,6 +22,11 @@
 - Revolve 的草图必须明确轮廓和旋转轴。
 - Hole 工具比手动画圆再切除更适合表达制造意义。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Revolve 与 Hole](https://www.youtube.com/results?search_query=Fusion+360+Revolve+Hole+tutorial)
+- [Bilibili：Fusion 360 旋转与孔工具](https://search.bilibili.com/all?keyword=Fusion%20360%20旋转%20孔工具%20教程)
+
 ## 完成检查
 
 - [ ] 完成一个 360 度旋转实体。

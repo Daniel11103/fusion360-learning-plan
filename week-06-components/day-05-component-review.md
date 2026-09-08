@@ -22,6 +22,11 @@
 - 装配前先准备好稳定的几何定位参考。
 - 零件清单是检查组件完整性的有效方式。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 multi component assembly](https://www.youtube.com/results?search_query=Fusion+360+multi+component+assembly+beginner)
+- [Bilibili：Fusion 360 多组件装配练习](https://search.bilibili.com/all?keyword=Fusion%20360%20多组件%20装配%20练习)
+
 ## 完成检查
 
 - [ ] 至少有 4 个组件。

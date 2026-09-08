@@ -17,6 +17,11 @@
 
 完成 `mounting_plate_week01`：`120 x 70 x 6 mm`，两个直径 `8 mm` 的安装孔，孔中心距 `80 mm`；至少有一处 `R5` 圆角。保存 `v01`，独立重做一次保存为 `final`。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 安装板综合练习](https://www.youtube.com/results?search_query=Fusion+360+mounting+plate+beginner+project)
+- [Bilibili：Fusion 360 安装板综合练习](https://search.bilibili.com/all?keyword=Fusion%20360%20安装板%20建模%20教程)
+
 ## 本节重点总结
 
 - 建模前先明确尺寸和基准，能避免边做边猜。

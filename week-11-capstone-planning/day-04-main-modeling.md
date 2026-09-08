@@ -22,6 +22,11 @@
 - 复杂结构要优先保证主体和接口正确。
 - 每个组件都应该能说明自己的功能和制造方式。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 complete product modeling](https://www.youtube.com/results?search_query=Fusion+360+complete+product+modeling+project)
+- [Bilibili：Fusion 360 综合项目主体建模](https://search.bilibili.com/all?keyword=Fusion%20360%20综合项目%20主体建模)
+
 ## 完成检查
 
 - [ ] 主体建模完成 70% 以上。

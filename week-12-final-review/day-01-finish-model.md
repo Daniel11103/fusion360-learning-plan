@@ -22,6 +22,11 @@
 - 清理模型是交付的一部分，不是可有可无的美化。
 - 保留候选版本，便于最终检查前回退。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 final model cleanup](https://www.youtube.com/results?search_query=Fusion+360+final+model+cleanup)
+- [Bilibili：Fusion 360 最终模型整理](https://search.bilibili.com/all?keyword=Fusion%20360%20最终模型整理)
+
 ## 完成检查
 
 - [ ] 三维几何完整。

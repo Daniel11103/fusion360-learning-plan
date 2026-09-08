@@ -22,6 +22,11 @@
 - 交付文件必须包含条件、版本和检查记录。
 - 真实加工前必须让有经验的人复核参数和安全风险。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 manufacturing workflow](https://www.youtube.com/results?search_query=Fusion+360+manufacturing+workflow+beginner)
+- [Bilibili：Fusion 360 制造准备流程](https://search.bilibili.com/all?keyword=Fusion%20360%20制造准备流程)
+
 ## 完成检查
 
 - [ ] 明确制造路线和理由。

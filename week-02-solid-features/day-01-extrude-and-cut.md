@@ -22,6 +22,11 @@
 - 切除方向和终止条件决定特征是否稳定。
 - 对称拉伸适合围绕基准面保持结构中心。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Extrude 拉伸与 Cut 切除](https://www.youtube.com/results?search_query=Fusion+360+Extrude+Cut+tutorial)
+- [Bilibili：Fusion 360 拉伸与切除](https://search.bilibili.com/all?keyword=Fusion%20360%20拉伸%20切除%20教程)
+
 ## 完成检查
 
 - [ ] 完成实体拉伸和孔切除。

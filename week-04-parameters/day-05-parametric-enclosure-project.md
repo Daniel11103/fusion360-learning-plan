@@ -22,6 +22,11 @@
 - 稳定的时间线比一次建成的复杂外观更有价值。
 - 记录参数和测试结果，可以形成之后复用的模板。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 parametric enclosure project](https://www.youtube.com/results?search_query=Fusion+360+parametric+enclosure+project)
+- [Bilibili：Fusion 360 参数化电子外壳项目](https://search.bilibili.com/all?keyword=Fusion%20360%20参数化%20电子外壳%20项目)
+
 ## 完成检查
 
 - [ ] 完成两个不同尺寸版本。

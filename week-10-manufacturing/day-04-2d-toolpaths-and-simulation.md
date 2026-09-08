@@ -22,6 +22,11 @@
 - 仿真是发现刀路、夹具和碰撞问题的必要步骤。
 - 转速、进给和切深必须结合刀具、材料和设备确认。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 2D toolpaths simulation](https://www.youtube.com/results?search_query=Fusion+360+2D+toolpaths+simulation)
+- [Bilibili：Fusion 360 2D 刀路仿真](https://search.bilibili.com/all?keyword=Fusion%20360%202D%20刀路%20仿真)
+
 ## 完成检查
 
 - [ ] 创建三种基础刀路。

@@ -22,6 +22,11 @@
 - 清晰层级有助于定位、出图、BOM 和后续协作。
 - 编辑组件时要注意当前上下文，避免改错零件。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 assembly structure components](https://www.youtube.com/results?search_query=Fusion+360+assembly+structure+components)
+- [Bilibili：Fusion 360 装配层级组件](https://search.bilibili.com/all?keyword=Fusion%20360%20装配层级%20组件)
+
 ## 完成检查
 
 - [ ] 建立顶层装配组件。

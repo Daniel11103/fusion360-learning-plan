@@ -22,6 +22,11 @@
 - 基准面应表达设计意图，而不是只依赖临时面。
 - 中间平面特别适合对称结构和后续镜像。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 Construction Plane](https://www.youtube.com/results?search_query=Fusion+360+construction+plane+tutorial)
+- [Bilibili：Fusion 360 构造平面与构造轴](https://search.bilibili.com/all?keyword=Fusion%20360%20构造平面%20构造轴)
+
 ## 完成检查
 
 - [ ] 创建并使用一个偏移平面。

@@ -22,6 +22,11 @@
 - 图片负责展示，尺寸和文字负责解释，二者不能互相替代。
 - 记录问题和改进方向能把一次练习变成可复用经验。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 project documentation render](https://www.youtube.com/results?search_query=Fusion+360+project+documentation+render)
+- [Bilibili：Fusion 360 项目文档与渲染](https://search.bilibili.com/all?keyword=Fusion%20360%20项目文档%20渲染)
+
 ## 完成检查
 
 - [ ] 有项目简介和零件清单。

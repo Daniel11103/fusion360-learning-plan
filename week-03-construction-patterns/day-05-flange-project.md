@@ -22,6 +22,11 @@
 - 构造几何应围绕设计意图建立，而不是临时补救。
 - 本周的核心是用一个原始特征生成可靠的重复结构。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 flange project tutorial](https://www.youtube.com/results?search_query=Fusion+360+flange+project+tutorial)
+- [Bilibili：Fusion 360 法兰盘建模](https://search.bilibili.com/all?keyword=Fusion%20360%20法兰盘%20建模)
+
 ## 完成检查
 
 - [ ] 模型包含圆周阵列和镜像。

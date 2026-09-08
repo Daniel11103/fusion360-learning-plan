@@ -16,6 +16,11 @@
 
 建立名为 `plate_day01` 的文件。完成一块 `100 x 60 x 5 mm` 的矩形板，保存为 `plate_day01_v01`。随后从不同视角观察模型，并在 Timeline 中找到草图和拉伸特征。
 
+## 视频学习链接
+
+- [YouTube：Fusion 360 界面与视图导航](https://www.youtube.com/results?search_query=Fusion+360+interface+navigation+beginner)
+- [Bilibili：Fusion 360 界面与视图导航](https://search.bilibili.com/all?keyword=Fusion%20360%20界面%20视图导航)
+
 ## 本节重点总结
 
 - Canvas 是建模区域，Browser 管理对象，Timeline 记录特征历史。
