@@ -26,3 +26,7 @@ Desktop.ini
 # Local notes and secrets
 .env
 .env.*
+
+# Local GitHub SSH keys
+github_id_ed25519
+github_id_ed25519.pub
