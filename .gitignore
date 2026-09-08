@@ -1,0 +1,28 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Fusion 360 local/cache files
+*.f3d.lock
+*.f3z.lock
+*.tmp
+
+# Exported manufacturing files that may be large or generated locally
+*.stl
+*.3mf
+*.step
+*.stp
+*.iges
+*.igs
+*.dxf
+*.dwg
+
+# Local notes and secrets
+.env
+.env.*
